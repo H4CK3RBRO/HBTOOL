@@ -129,7 +129,7 @@ python3 main.py
 
 48-) Oto tıklayıcı
 
-49-) SxBomb (Demo)
+49-) HBBomb (Demo)
 
 50-) Zip Şifre Kırıcı
 
