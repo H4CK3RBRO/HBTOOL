@@ -19,11 +19,7 @@ Ne tür araçların olduğunu içindekiler kısmından görebilirsiniz
 
 Așağıdaki kodu kopyalayıp terminale yapıștırın.
 ```
-apt install git &&
-apt install python &&
-apt install python2 &&
-apt install python3 &&
-git clone https://github.com/H4CK3RBRO/HBTOOL &&
+apt install git && apt install python && apt install python2 && apt install python3 && git clone https://github.com/H4CK3RBRO/HBTOOL
 cd HBTOOL
 ```
 Gerekli modüller yüklemek için:
