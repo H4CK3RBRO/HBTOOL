@@ -1,4 +1,4 @@
-![logo](.logo.png) <br />
+![logo](./logo.png) <br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
