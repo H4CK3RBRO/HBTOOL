@@ -26,6 +26,8 @@ print('''
 			    5-) Bu dizinden Toolu sil
 
 			    6-) Tam kurulum (bazı durumlarda kök kullanıcı gerektirir)
+			    
+			    7-) Tool Güncelle
 
 
 ''')
@@ -181,3 +183,8 @@ elif(metfora=="6"):
 	os.system("pip install opencv-python")
 	os.system("pip install beautifulsoup4")
 	print("Kurulum Tamamlandı 👍:)")
+elif(metfora=="7"):
+	os.system("rm -rf ../HBTOOL")
+	os.system("git clone https://github.com/H4CK3RBRO/HBTOOL.git")
+	os.system("pip install -r HBTOOL/requirements.txt")
+	print("Tool Güncellendi :)")
